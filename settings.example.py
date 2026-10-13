@@ -1,0 +1,1 @@
+token = "Your token from https://yandex.ru/dev/disk/poligon/"
